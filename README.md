@@ -1,12 +1,12 @@
 # Assignment
 
-- Get countries from server and show in a “horizontal” list
-- By select a country, flag image should be load from server
+- Get countries from server and show in a	**horizontal** list
+- By select a country, get universities of that country and show in a **vertical** list
 
-Point:
+**Point**:
 - Use minimum required third-party frameworks
 
-RESTful APIs: 
+**RESTful APIs**: 
 - https://restcountries.com/v3.1/all
 - http://universities.hipolabs.com/search?country=canada
 
